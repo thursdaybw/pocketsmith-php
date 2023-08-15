@@ -1,4 +1,5 @@
 {
+    "name": "thursdaybw/pocketsmith-php",
     "description": "The PocketSmith API",
     "keywords": [
         "openapitools",
